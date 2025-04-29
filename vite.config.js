@@ -5,7 +5,7 @@ import { defineConfig } from "vite";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base :"",
+  base :"https://github.com/Achalmahor/MainProject.git",
   plugins: [react()],
   resolve: {
     alias: {
